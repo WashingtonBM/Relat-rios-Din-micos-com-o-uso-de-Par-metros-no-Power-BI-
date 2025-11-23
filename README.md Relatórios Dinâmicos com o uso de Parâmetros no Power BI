@@ -1,0 +1,22 @@
+Criando Relatórios Dinâmicos com o uso de Parâmetros no Power BI 
+
+Objetivo do projeto:
+Criar relatórios dinâmicos com o uso de parâmetros, focando na experiência do usuário.
+
+Pontos considerados:
+• Positividade
+• Contraste
+• Proporção áurea
+• Segmentação dos dados
+
+Etapas do projeto:	
+1. Adequou-se o relatório para a melhor experiência do usuário;
+2. Criou-se a página: Parâmetros;
+3. Utilizou-se o recurso 'Analisar' para gerar análises que não estavam visíveis;
+4. Utilizou-se o recurso 'Obter mais visuais' para obter visuais que possibilitam a criação de parâmetros nas análises;
+5. Ajustou-se a estilização dos visuais e da página;
+6. Insira os botões de navegabilidade,
+7. Modificou-se os botões de navegabilidade a fim de destacar o focalizar e selecionar e
+8. Criou-se menus de navegabilidade em cada página.
+
+• O relatório (completo) está composto por 12 páginas.
